@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  firstname: Test1
+  lastname: User
+  emailaddress: testuser1@test.com
+
+two:
+  firstname: Test2
+  lastname: User
+  emailaddress: testuser2@test.com

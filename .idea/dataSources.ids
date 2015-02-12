@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Rails newapi: development" uuid="727758cb-e3d4-419d-acb8-4c910f5a82a3">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails newapi: test" uuid="a924ef43-c09f-46bd-aaea-a32147a9fee2">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails newapi: production" uuid="9920a9af-253a-4bd0-be79-4037efab9976">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

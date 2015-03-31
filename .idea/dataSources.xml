@@ -4,7 +4,7 @@
     <data-source source="LOCAL" name="Rails newapi: development" uuid="727758cb-e3d4-419d-acb8-4c910f5a82a3">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/blog</jdbc-url>
+      <jdbc-url>jdbc:postgresql://mydbinstance.chbomiyjaxeu.us-west-2.rds.amazonaws.com:5432/blog</jdbc-url>
       <libraries>
         <library>
           <url>file://$USER_HOME$/Library/Preferences/RubyMine60/jdbc-drivers/postgresql-driver-license.txt</url>
@@ -17,7 +17,7 @@
     <data-source source="LOCAL" name="Rails newapi: test" uuid="a924ef43-c09f-46bd-aaea-a32147a9fee2">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql:blog</jdbc-url>
+      <jdbc-url>jdbc:postgresql://mydbinstance.chbomiyjaxeu.us-west-2.rds.amazonaws.com:5432/blog</jdbc-url>
       <libraries>
         <library>
           <url>file://$USER_HOME$/Library/Preferences/RubyMine60/jdbc-drivers/postgresql-driver-license.txt</url>

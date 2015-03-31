@@ -1,11 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  firstname: Test1
-  lastname: User
-  emailaddress: testuser1@test.com
+  firstname: AWS
+  lastname: User1
+  emailaddress: testawsuser1@test.com
 
 two:
-  firstname: Test2
-  lastname: User
-  emailaddress: testuser2@test.com
+  firstname: AWS
+  lastname: User2
+  emailaddress: testawsuser2@test.com

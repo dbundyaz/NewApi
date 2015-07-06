@@ -28,9 +28,9 @@ development:
   #username: blog_user
   #password: pwd
   #host: localhost
-  username: awsuser
-  password: DebMlb11
-  host: mydbinstance.chbomiyjaxeu.us-west-2.rds.amazonaws.com
+  username: dbundyaz
+  password: DebMlb111
+  host: technoxoft.com
   port: 5432
   pool: 10
 
@@ -68,9 +68,9 @@ test:
   <<: *default
   encoding: utf8
   database: blog
-  username: awsuser
-  password: DebMlb11
-  host: mydbinstance.chbomiyjaxeu.us-west-2.rds.amazonaws.com
+  username: dbundyaz
+  password: DebMlb111
+  host: technoxoft.com
   port: 5432
   pool: 10
 
